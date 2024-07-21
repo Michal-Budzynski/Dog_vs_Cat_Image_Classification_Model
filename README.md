@@ -19,12 +19,12 @@ The dataset used in this project consists of images of dogs and cats. Each image
 
 ## Evaluation
 The performance of the model is evaluated using the following metrics:
-- **Accuracy**: , that means ...% of images are correctly classified. 
+- **Accuracy**: 92.17%, means that 92.17% of images are correctly classified. 
 
 ## Project Structure
 The project consists of the following files:
-- `convolutional_neural_network.ipynb`: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
-- `data/`: Directory containing the dataset of dog and cat images.
+- `code.ipynb`: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
+- `data`: To run the model you will have to download the data from my Google Drive ([link](https://drive.google.com/file/d/1cFf_cUO8rYcsD_ZAn2huTIdN4RckI7ln/view?usp=sharing)) and place it in the folder which contains the 'code.ipynb' file
 
 ## Tools
 The following statistical and machine learning techniques are used in this project:
